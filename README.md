@@ -50,3 +50,6 @@ Repositório para a live do dia 01/10/2021 sobre o Amazon Athena
 ### Eliminar recursos
  - Exluir os elementos criados
 
+### Minha contribuição
+ - Query populaçao por estado
+ - Query popualçao por código regional
